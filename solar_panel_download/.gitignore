@@ -1,0 +1,7 @@
+*.csv
+*.json
+additional_weather_data/
+clustering_plots/
+data/
+Masked_images_dic/
+weather_data_plots/
